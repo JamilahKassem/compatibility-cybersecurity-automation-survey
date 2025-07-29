@@ -4,7 +4,9 @@ This repository contains the compatibility scoring table referenced in our surve
 
 ## Files
 
-- `compatibility_scores.csv`: Scores assigned to each system across five compatibility dimensions.
-- `compatibility_scores.pdf`: Table version with descriptions and rationales for each score.
+- `Compatibility Data.xlsx`: Scores and reasoning assigned to each system across eight metrics in xlsx format.
+- `compatibility_scores.csv`: Scores assigned to each system across eight compatibility metrics.
+- `compatibility_reasoning.csv`: The reason for giving each score.
+- `compatibility_scores.pdf`: Table describing the eight metrics and how the scoring is done.
 
 For details, refer to Section 4 of the paper.
