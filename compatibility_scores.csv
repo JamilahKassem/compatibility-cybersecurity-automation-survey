@@ -1,23 +1,24 @@
-﻿Phase,Title,Code,Data,Customizability,Support,Automability,I/O,Environment,Latency,Radar Graph Data,Average
-Discovery,Automated detection of cybersecurity attacks in healthcare systems with recursive feature elimination and multilayer perceptron optimization,0,4,4,0,4,4,4,2,"{(0, 0) (45, 4) (90, 4) (135, 0) (180, 4) (225, 4) (270, 4) (315, 2)}",2.75
-,Towards Autonomous Cybersecurity An Intelligent AutoML Framework for Autonomous Intrusion Detection,4,4,4,2,4,4,4,4,"{(0, 4) (45, 4) (90, 4) (135, 2) (180, 4) (225, 4) (270, 4) (315, 4)}",3.75
-,Toward Automated Cyber Defense with Secure Sharing of Structured Cyber Threat Intelligence,2,4,4,0,4,4,0,4,"{(0, 2) (45, 4) (90, 4) (135, 0) (180, 4) (225, 4) (270, 0) (315, 4)}",2.75
-,A demonstration of VEREFOO An automated framework for virtual firewall configuration,4,4,4,4,4,4,2,4,"{(0, 4) (45, 4) (90, 4) (135, 4) (180, 4) (225, 4) (270, 2) (315, 4)}",3.75
-,APIARY An API-based automatic rule generator for yara to enhance malware detection,0,4,2,0,4,4,4,2,"{(0, 0) (45, 4) (90, 2) (135, 0) (180, 4) (225, 4) (270, 4) (315, 2)}",2.5
-,CyberSentinel An Emergent Threat Detection,4,4,4,4,4,4,4,4,"{(0, 4) (45, 4) (90, 4) (135, 4) (180, 4) (225, 4) (270, 4) (315, 4)}",4
-Scoring,Selection of Pareto-efficient response plans based on financial and operational assessments,0,2,2,2,2,2,2,2,"{(0, 0) (45, 2) (90, 2) (135, 2) (180, 2) (225, 2) (270, 2) (315, 2)}",1.75
-,Stateful RORI-based countermeasure selection using hypergraphs,0,2,4,0,4,2,2,2,"{(0, 0) (45, 2) (90, 4) (135, 0) (180, 4) (225, 2) (270, 2) (315, 2)}",2
-,Framework for Calculating Return on Security Investment (ROSI) for Security-Oriented Organizations,0,4,4,0,0,0,4,0,"{(0, 0) (45, 4) (90, 4) (135, 0) (180, 0) (225, 0) (270, 4) (315, 0)}",1.5
-,Dynamic Optimal Countermeasure Selection for Intrusion Response System,0,4,4,0,4,2,0,4,"{(0, 0) (45, 4) (90, 4) (135, 0) (180, 4) (225, 2) (270, 0) (315, 4)}",2.25
-,Efficient attack countermeasure selection accounting for recovery and action costs,0,2,4,0,4,2,4,2,"{(0, 0) (45, 2) (90, 4) (135, 0) (180, 4) (225, 2) (270, 4) (315, 2)}",2.25
-,Balancing cybersecurity in a supply chain under direct and indirect cyber risks,0,0,4,0,2,2,2,0,"{(0, 0) (45, 0) (90, 4) (135, 0) (180, 2) (225, 2) (270, 2) (315, 0)}",1.25
-,Design of a NovelInformation System for Semi-automated Management of Cybersecurity in Industrial Control Systems,0,4,2,2,2,4,2,0,"{(0, 0) (45, 4) (90, 2) (135, 2) (180, 2) (225, 4) (270, 2) (315, 0)}",2
-,Automated Knowledge-Based Cybersecurity Risk Assessment of Cyber-Physical Systems,4,4,4,4,4,4,2,2,"{(0, 4) (45, 4) (90, 4) (135, 4) (180, 4) (225, 4) (270, 2) (315, 2)}",3.5
-Selection,"Decision support model for cybersecurity risk planning A two-stage stochastic programming framework featuring firms, government, and attacker",0,4,4,0,2,2,0,2,"{(0, 0) (45, 4) (90, 4) (135, 0) (180, 2) (225, 2) (270, 0) (315, 2)}",1.75
-,Dynamic countermeasures selection for multi-path attacks,4,4,2,2,4,2,4,2,"{(0, 4) (45, 4) (90, 2) (135, 2) (180, 4) (225, 2) (270, 4) (315, 2)}",3
-,Cyber Risk Propagation and Optimal Selection of Cybersecurity Controls for Complex Cyberphysical Systems,0,4,2,2,4,2,2,2,"{(0, 0) (45, 4) (90, 2) (135, 2) (180, 4) (225, 2) (270, 2) (315, 2)}",2.25
-,Optimal security configuration for cyber insurance,0,0,4,0,4,4,4,2,"{(0, 0) (45, 0) (90, 4) (135, 0) (180, 4) (225, 4) (270, 4) (315, 2)}",2.25
-,Optimisation of cyber insurance coverage with selection of cost effective security controls,0,2,2,2,4,2,4,2,"{(0, 0) (45, 2) (90, 2) (135, 2) (180, 4) (225, 2) (270, 4) (315, 2)}",2.25
-,Heuristic Approach for Countermeasure Selection Using Attack Graphs,2,4,4,2,4,2,2,2,"{(0, 2) (45, 4) (90, 4) (135, 2) (180, 4) (225, 2) (270, 2) (315, 2)}",2.75
-,A Model for Automated Cybersecurity Threat Remediation and Sharing,0,2,4,2,4,4,2,2,"{(0, 0) (45, 2) (90, 4) (135, 2) (180, 4) (225, 4) (270, 2) (315, 2)}",2.5
+﻿Phase,Title,Code,Data,Customizability,Support,Automability,I/O,Environment,Latency,Average
+Discovery,Automated detection of cybersecurity attacks in healthcare systems with recursive feature elimination and multilayer perceptron optimization,0,4,4,0,4,4,4,2,2.75
+,Towards Autonomous Cybersecurity An Intelligent AutoML Framework for Autonomous Intrusion Detection,4,4,4,2,4,4,4,4,3.75
+,Toward Automated Cyber Defense with Secure Sharing of Structured Cyber Threat Intelligence,2,4,4,0,4,4,0,4,2.75
+,A demonstration of VEREFOO An automated framework for virtual firewall configuration,4,4,4,4,4,4,2,4,3.75
+,APIARY An API-based automatic rule generator for yara to enhance malware detection,0,4,2,0,4,4,4,2,2.5
+,CyberSentinel An Emergent Threat Detection,4,4,4,4,4,4,4,4,4
+Scoring,Selection of Pareto-efficient response plans based on financial and operational assessments,0,2,2,2,2,2,2,2,1.75
+,Stateful RORI-based countermeasure selection using hypergraphs,0,2,4,0,4,2,2,2,2
+,Framework for Calculating Return on Security Investment (ROSI) for Security-Oriented Organizations,0,4,4,0,0,0,4,0,1.5
+,Dynamic Optimal Countermeasure Selection for Intrusion Response System,0,4,4,0,4,2,0,4,2.25
+,Efficient attack countermeasure selection accounting for recovery and action costs,0,2,4,0,4,2,4,2,2.25
+,Balancing cybersecurity in a supply chain under direct and indirect cyber risks,0,0,4,0,2,2,2,0,1.25
+,Design of a NovelInformation System for Semi-automated Management of Cybersecurity in Industrial Control Systems,0,4,2,2,2,4,2,0,2
+,Automated Knowledge-Based Cybersecurity Risk Assessment of Cyber-Physical Systems,4,4,4,4,4,4,2,2,3.5
+Selection,"Decision support model for cybersecurity risk planning A two-stage stochastic programming framework featuring firms, government, and attacker",0,4,4,0,2,2,0,2,1.75
+,Dynamic countermeasures selection for multi-path attacks,4,4,2,2,4,2,4,2,3
+,Cyber Risk Propagation and Optimal Selection of Cybersecurity Controls for Complex Cyberphysical Systems,0,4,2,2,4,2,2,2,2.25
+,Optimal security configuration for cyber insurance,0,0,4,0,4,4,4,2,2.25
+,Optimisation of cyber insurance coverage with selection of cost effective security controls,0,2,2,2,4,2,4,2,2.25
+,Heuristic Approach for Countermeasure Selection Using Attack Graphs,2,4,4,2,4,2,2,2,2.75
+,A Model for Automated Cybersecurity Threat Remediation and Sharing,0,2,4,2,4,4,2,2,2.5
+
 ,,,,,,,,,,,
