@@ -4,7 +4,7 @@ Discovery,Automated detection of cybersecurity attacks in healthcare systems wit
 ,Toward Automated Cyber Defense with Secure Sharing of Structured Cyber Threat Intelligence,2,4,4,0,4,4,0,4,2.75
 ,A demonstration of VEREFOO An automated framework for virtual firewall configuration,4,4,4,4,4,4,2,4,3.75
 ,APIARY An API-based automatic rule generator for yara to enhance malware detection,0,4,2,0,4,4,4,2,2.5
-,CyberSentinel An Emergent Threat Detection,1,4,4,2.5,4,4,2.8,4,3.2875
+,CyberSentinel A Transparent Defense Framework for Malware Detection in High-Stakes Operational Environments ,1,4,4,2.5,4,4,2.8,4,3.2875
 Scoring,Selection of Pareto-efficient response plans based on financial and operational assessments,0,2,2,2,2,2,2,2,1.75
 ,Stateful RORI-based countermeasure selection using hypergraphs,0,2,4,0,4,2,2,2,2
 ,Framework for Calculating Return on Security Investment (ROSI) for Security-Oriented Organizations,0,4,4,0,0,0,4,0,1.5
@@ -19,4 +19,5 @@ Selection,"Decision support model for cybersecurity risk planning A two-stage st
 ,Optimal security configuration for cyber insurance,0,0,4,0,4,4,4,2,2.25
 ,Optimisation of cyber insurance coverage with selection of cost effective security controls,0,2,2,2,4,2,4,2,2.25
 ,Heuristic Approach for Countermeasure Selection Using Attack Graphs,2,4,4,2,4,2,2,2,2.75
+
 ,A Model for Automated Cybersecurity Threat Remediation and Sharing,0,2,4,2,4,4,2,2,2.5
